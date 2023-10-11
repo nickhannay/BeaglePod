@@ -1,0 +1,5 @@
+needed packages:
+    - libbluetooth-dev
+    - bluez
+    - pulseaudio
+    - libpulse-dev
